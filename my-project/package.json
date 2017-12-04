@@ -1,6 +1,7 @@
 {
   "name": "my-colors-project",
   "dependencies": {
-    "colors": "0.5.0"
+    "colors": "0.5.0",
+    "officegen": "^0.4.5"
   }
 }
